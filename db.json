@@ -1,0 +1,37 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Venkt Cahalaalla",
+      "photo": "https://www.pngkey.com/png/full/46-462764_how-to-set-use-person-icon-blue-no.png",
+      "mobile": "6301932084",
+      "email": "venkat.chalamallak@gmail.com",
+      "subject": "Data Science",
+      "groupID": "1",
+      "groupId": "1"
+    },
+    {
+      "name": "Pavan",
+      "photo": "https://icon-library.com/images/profile-png-icon/profile-png-icon-2.jpg",
+      "mobile": "23456",
+      "email": " ven@",
+      "subject": "Html",
+      "groupId": "1",
+      "id": "D9B4z6F"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Tech Studies"
+    },
+    {
+      "id": "2",
+      "name": "Buissness Studies"
+    },
+    {
+      "id": "3",
+      "name": "Life Style Studies"
+    }
+  ]
+}
